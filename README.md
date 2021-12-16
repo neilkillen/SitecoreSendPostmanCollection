@@ -1,4 +1,4 @@
-# SitecoreSendPostmanCollection
+# Sitecore Send Postman Collection
 Sitecore Send Postman Collection
 
 I’ve created this postman collection by converting the Sitecore Send (Moosend) API Blueprint specification to Open API for use within Postman. Details of the conversion process can be found here https://neilkillen.com/2021/12/16/creating-a-postman-collection-for-sitecore-send-moosend/ 
